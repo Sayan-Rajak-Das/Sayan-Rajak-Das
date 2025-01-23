@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full stack**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sayandas987123654@gmail.com**
 
